@@ -1,15 +1,10 @@
-<img src="https://raw.githubusercontent.com/Petrus012/Petrus012/main/assets/banner.svg" width="100%" alt="Talk is cheap. Show me the code. — Linus Torvalds">
+<img src="https://raw.githubusercontent.com/Petrus012/Petrus012/main/assets/banner.svg" width="100%" alt="First, solve the problem. Then, write the code. — John Johnson">
 
 ## Olá, eu sou o Pyêtro! 👋
 
 ### 💻 Estudante de Ciência da Computação
 
 Sou estudante de **Ciência da Computação** na **Universidade Federal de Lavras (UFLA)**, com formatura prevista para dezembro de 2027. Meu foco é o **desenvolvimento back-end**: gosto de construir APIs, integrar sistemas e fazer serviços conversarem entre si, com **Java/Spring Boot** e **Python/FastAPI** como base.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Petrus012/Petrus012/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Petrus012/Petrus012/output/snake-light.svg" width="100%" alt="Cobrinha percorrendo o gráfico de contribuições">
-</picture>
 
 ---
 
@@ -49,10 +44,6 @@ Sou estudante de **Ciência da Computação** na **Universidade Federal de Lavra
 
 ---
 
-### 📚 Estudando agora
-
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,githubactions" height="36" alt="AWS, Kubernetes, GitHub Actions"/> <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" height="24" alt="JUnit"/> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" height="24" alt="pytest"/>
-
 <details>
 <summary><b>🇺🇸 English</b></summary>
 <br>
@@ -72,3 +63,8 @@ Computer Science student at the Federal University of Lavras (UFLA), Brazil, gra
 
 [![LinkedIn](https://img.shields.io/badge/-Py%C3%AAtro_Augusto-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pyetro-augusto/)
 [![Gmail](https://img.shields.io/badge/-pyetroaugusto12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pyetroaugusto12@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Petrus012/Petrus012/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Petrus012/Petrus012/output/snake-light.svg" width="100%" alt="Cobrinha percorrendo o gráfico de contribuições">
+</picture>
