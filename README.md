@@ -1,13 +1,15 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Petrus012/Petrus012/main/assets/banner-dark.svg">
-  <img src="https://raw.githubusercontent.com/Petrus012/Petrus012/main/assets/banner-light.svg" width="100%" alt="Pyêtro Augusto Malaquias, back-end em Java e Python, Ciência da Computação na UFLA">
-</picture>
+<img src="https://raw.githubusercontent.com/Petrus012/Petrus012/main/assets/banner.svg" width="100%" alt="Talk is cheap. Show me the code. — Linus Torvalds">
 
 ## Olá, eu sou o Pyêtro! 👋
 
 ### 💻 Estudante de Ciência da Computação
 
 Sou estudante de **Ciência da Computação** na **Universidade Federal de Lavras (UFLA)**, com formatura prevista para dezembro de 2027. Meu foco é o **desenvolvimento back-end**: gosto de construir APIs, integrar sistemas e fazer serviços conversarem entre si, com **Java/Spring Boot** e **Python/FastAPI** como base.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Petrus012/Petrus012/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Petrus012/Petrus012/output/snake-light.svg" width="100%" alt="Cobrinha percorrendo o gráfico de contribuições">
+</picture>
 
 ---
 
@@ -28,28 +30,28 @@ Sou estudante de **Ciência da Computação** na **Universidade Federal de Lavra
 
 ### 🛠️ Tecnologias e ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,spring,fastapi,nodejs,express,react&perline=11" height="38" alt="Java, Python, C, C++, JavaScript, TypeScript, Spring Boot, FastAPI, Node.js, Express, React"/>
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,linux,git,github,postman,vscode&perline=9" height="38" alt="PostgreSQL, MySQL, SQLite, Docker, Linux, Git, GitHub, Postman, VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="38" alt="scikit-learn"/>
-</p>
+#### 💻 Linguagens
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,bash" height="36" alt="Java, Python, C, C++, JavaScript, TypeScript, Bash"/> <img src="https://img.shields.io/badge/Assembly_MIPS-5C2D91?style=flat-square" height="24" alt="Assembly MIPS"/>
 
-**Também trabalho com:** Spring Security, JPA/Hibernate, JWT, Flyway, Swagger/OpenAPI, SQLAlchemy, Pydantic, Docker Compose, LlamaIndex, ChromaDB, Ollama, Jupyter e Assembly MIPS.
+#### ⚙️ Back-end e bancos de dados
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,postgres,mysql,sqlite" height="36" alt="Spring Boot, FastAPI, Node.js, Express, PostgreSQL, MySQL, SQLite"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="36" alt="Hibernate"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="36" alt="Swagger"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="36" alt="SQLAlchemy"/>
+
+#### 🧠 Dados e IA
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" alt="scikit-learn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="36" alt="Jupyter"/> <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" height="24" alt="LlamaIndex"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" height="24" alt="Ollama"/> <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" height="24" alt="ChromaDB"/>
+
+#### 🎨 Front-end
+<img src="https://skillicons.dev/icons?i=react,vite,html,css" height="36" alt="React, Vite, HTML, CSS"/>
+
+#### 🐳 DevOps e ferramentas
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode" height="36" alt="Docker, Linux, Git, GitHub, Postman, VS Code"/>
+
+**Também trabalho com:** Spring Security, JWT, Flyway, Pydantic e Docker Compose.
 
 ---
 
 ### 📚 Estudando agora
 
-```text
-☁️  AWS
-☸️  Kubernetes
-⚙️  CI/CD com GitHub Actions
-🧪  Testes automatizados com JUnit e pytest
-```
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,githubactions" height="36" alt="AWS, Kubernetes, GitHub Actions"/> <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" height="24" alt="JUnit"/> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" height="24" alt="pytest"/>
 
 <details>
 <summary><b>🇺🇸 English</b></summary>
@@ -70,8 +72,3 @@ Computer Science student at the Federal University of Lavras (UFLA), Brazil, gra
 
 [![LinkedIn](https://img.shields.io/badge/-Py%C3%AAtro_Augusto-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pyetro-augusto/)
 [![Gmail](https://img.shields.io/badge/-pyetroaugusto12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pyetroaugusto12@gmail.com)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Petrus012/Petrus012/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Petrus012/Petrus012/output/snake-light.svg" width="100%" alt="Gráfico de contribuições animado">
-</picture>
