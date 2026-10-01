@@ -15,9 +15,6 @@ Sou estudante de **Ciência da Computação** na **Universidade Federal de Lavra
 - 🧠 Desenvolvi em equipe um **assistente acadêmico com RAG**, distribuído em 7 microsserviços.
 - 🤝 Acostumado a trabalhar em equipe, com sprints planejadas e versionamento no Git.
 - 🔭 Aberto a oportunidades de **estágio em back-end**, remoto.
-
-<br>
-
 - 🎯 **Interesses:** back-end, APIs REST, microsserviços, sistemas distribuídos e IA aplicada
 - 🗣️ **Idiomas:** português (nativo) e inglês (leitura e escrita técnica)
 
