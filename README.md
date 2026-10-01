@@ -4,7 +4,7 @@
 
 ### 💻 Estudante de Ciência da Computação
 
-Sou estudante de **Ciência da Computação** na **Universidade Federal de Lavras (UFLA)**, com formatura prevista para dezembro de 2027. Meu foco é o **desenvolvimento back-end**: gosto de construir APIs, integrar sistemas e fazer serviços conversarem entre si, com **Java/Spring Boot** e **Python/FastAPI** como base.
+Sou estudante de **Ciência da Computação** na **Universidade Federal de Lavras (UFLA)**, com formatura prevista para julho de 2028. Meu foco é o **desenvolvimento back-end**: gosto de construir APIs, integrar sistemas e fazer serviços conversarem entre si, com **Java/Spring Boot** e **Python/FastAPI** como base.
 
 ---
 
